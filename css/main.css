@@ -70,7 +70,8 @@ body {
   /* vw=24/360*100=6.66 */
   font-size: clamp(1.5rem, 6.66vw, 2.25rem);
   letter-spacing: .08em;
-  text-decoration: 1px underline;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
   text-underline-offset: .36em;
   text-align: center;
   color: var(--color-main);
