@@ -125,7 +125,7 @@ body {
   justify-content: center;
   width: 100%;
   height: 540px;
-  background: url(/images/mv-image-sp@2x.jpg) center center / cover no-repeat;
+  background: url(../images/mv-image-sp@2x.jpg) center center / cover no-repeat;
 }
 
 @media (width >=768px) {
@@ -133,7 +133,7 @@ body {
     display: block;
     height: 768px;
     padding: 57px 35px;
-    background: url(/images/mv-image-pc@2x.jpg) center center / cover no-repeat;
+    background: url(../images/mv-image-pc@2x.jpg) center center / cover no-repeat;
   }
 }
 
@@ -397,13 +397,13 @@ body {
 /* page > top > big-bg__image */
 .big-bg__img {
   height: 226px;
-  background: url(/images/section-bg-image-sp@2x.jpg) center center / cover no-repeat;
+  background: url(../images/section-bg-image-sp@2x.jpg) center center / cover no-repeat;
 }
 
 @media (width >=768px) {
   .big-bg__img {
     height: 496px;
-    background: url(/images/section-bg-image-pc@2x.jpg) center center / cover no-repeat;
+    background: url(../images/section-bg-image-pc@2x.jpg) center center / cover no-repeat;
   }
 }
 
